@@ -4,6 +4,8 @@ A simple C++ program for encrypting text using a Caesar cipher.
 
 ## How to Build
 
+Build instructions for Windows, Linux and Mac. 
+
 ### Windows
 Run build.bat to generate a bin folder with the binary. (mingw necessary)
 
