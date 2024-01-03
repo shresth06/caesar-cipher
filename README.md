@@ -1,6 +1,6 @@
 # Caesar Cipher Encryptor
 
-A simple C++ program for encrypting text using a Caesar cipher.
+A simple C++ program for encrypting text using a Caesar Cipher.
 
 ## How to Build
 
